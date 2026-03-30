@@ -71,17 +71,18 @@ html { scroll-behavior: smooth; }
     }
  
     nav.main-nav ul li a {
-      color: var(--white);
+      background: linear-gradient(to right, #fcf6ba, #aa771c);
+      background-clip: text;
+      color: transparent;
       text-decoration: none;
       font-family: 'Barlow', sans-serif;
-      font-size: 14px;
+      font-size: 16px;
       font-weight: 500;
       letter-spacing: 0.5px;
       text-transform: lowercase;
       transition: color 0.2s;
     }
  
-    nav.main-nav ul li a:hover { color: var(--yellow); }
  
  
     section.hero {
