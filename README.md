@@ -22,9 +22,9 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 
 
-![Tela 1](public/img/img1tela.png)
-![Tela 2](public/img/img2tela.png)
-![Tela 3](public/img/img3tela.png)
+![Tela 1](public/img-telas/img1tela.png)
+![Tela 2](public/img-telas/img2tela.png)
+![Tela 3](public/img-telas/img3tela.png)
 
 ## Print da home-page criada
 
