@@ -9,10 +9,10 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: enzo fernandes alcantara
+- Matricula: 908460
+- Proposta de projeto escolhida: brasil open de futvolei
+- Breve descrição sobre seu projeto: site sobre o brasil open de futvolei o maior campeonato de futvolei do brasil 
 
 
 ## Print do(s) wireframe(s) criado
